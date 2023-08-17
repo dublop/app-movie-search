@@ -1,0 +1,76 @@
+{
+    "Search": [
+      {
+        "Title": "Barbie as The Princess and the Pauper",
+        "Year": "2004",
+        "imdbID": "tt0426955",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGY5MzU3MzItNDBjMC00YjQzLWEzMTUtMGMxMTEzYjhkMGNkXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Barbie in the Nutcracker",
+        "Year": "2001",
+        "imdbID": "tt0288441",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0Y2E2MjgtZDBhNi00OTQ3LTkyYzAtNTdmNzRhYTczZWI2XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Barbie as Rapunzel",
+        "Year": "2002",
+        "imdbID": "tt0313255",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjViZmY0M2MtODUzNy00MjRiLTlhYjQtMjQ4ZDY3ZWFkYWE4XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Barbie of Swan Lake",
+        "Year": "2003",
+        "imdbID": "tt0383206",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzZDBhODAtNmU4My00NWY5LTlmYTYtZDVkOTk3MDcyMDEyXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Barbie in the 12 Dancing Princesses",
+        "Year": "2006",
+        "imdbID": "tt0859594",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzVkMzdiZTItZWFlYS00NmU1LWEwOTYtM2Y1ZGNhODhjOWI0XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Barbie and the Magic of Pegasus 3-D",
+        "Year": "2005",
+        "imdbID": "tt0480345",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzZmZWVkOTAtN2U2ZC00YTVjLWE0OWItYmQ1NDBhNWUzYjdhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Barbie: Fairytopia",
+        "Year": "2005",
+        "imdbID": "tt0450982",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzhlMzlhY2UtNmNlZi00MThmLTlhZmUtYWYyODJlZDlmZDJmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Barbie as the Island Princess",
+        "Year": "2007",
+        "imdbID": "tt1092053",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjNlZWViYWMtYWE2NC00MjQzLTljZWEtNDEzZmRlMGMxYTBiXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Barbie Fairytopia: Mermaidia",
+        "Year": "2006",
+        "imdbID": "tt0775425",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzdhNmU5ZDktYWQ0ZC00MzI2LWI3ZTEtYzQyNDhiZWNjMWE3XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Barbie and the Diamond Castle",
+        "Year": "2008",
+        "imdbID": "tt1294138",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDgwNDk2OV5BMl5BanBnXkFtZTgwMTM4MjA2MDE@._V1_SX300.jpg"
+      }
+    ],
+    "totalResults": "176",
+    "Response": "True"
+}
